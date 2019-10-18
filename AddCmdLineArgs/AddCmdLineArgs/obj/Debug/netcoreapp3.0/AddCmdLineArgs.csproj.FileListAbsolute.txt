@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\bin\Debug\netcoreapp3.0\AddCmdLineArgs.exe
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\bin\Debug\netcoreapp3.0\AddCmdLineArgs.deps.json
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\bin\Debug\netcoreapp3.0\AddCmdLineArgs.runtimeconfig.json
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\bin\Debug\netcoreapp3.0\AddCmdLineArgs.runtimeconfig.dev.json
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\bin\Debug\netcoreapp3.0\AddCmdLineArgs.dll
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\bin\Debug\netcoreapp3.0\AddCmdLineArgs.pdb
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\obj\Debug\netcoreapp3.0\AddCmdLineArgs.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\obj\Debug\netcoreapp3.0\AddCmdLineArgs.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\obj\Debug\netcoreapp3.0\AddCmdLineArgs.AssemblyInfo.cs
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\obj\Debug\netcoreapp3.0\AddCmdLineArgs.dll
+C:\Users\richa\source\repos\AddCmdLineArgs\AddCmdLineArgs\obj\Debug\netcoreapp3.0\AddCmdLineArgs.pdb
