@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\ListONums\ListONums\bin\Debug\netcoreapp3.0\ListONums.exe
+C:\Users\richa\source\repos\ListONums\ListONums\bin\Debug\netcoreapp3.0\ListONums.deps.json
+C:\Users\richa\source\repos\ListONums\ListONums\bin\Debug\netcoreapp3.0\ListONums.runtimeconfig.json
+C:\Users\richa\source\repos\ListONums\ListONums\bin\Debug\netcoreapp3.0\ListONums.runtimeconfig.dev.json
+C:\Users\richa\source\repos\ListONums\ListONums\bin\Debug\netcoreapp3.0\ListONums.dll
+C:\Users\richa\source\repos\ListONums\ListONums\bin\Debug\netcoreapp3.0\ListONums.pdb
+C:\Users\richa\source\repos\ListONums\ListONums\obj\Debug\netcoreapp3.0\ListONums.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\ListONums\ListONums\obj\Debug\netcoreapp3.0\ListONums.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\ListONums\ListONums\obj\Debug\netcoreapp3.0\ListONums.AssemblyInfo.cs
+C:\Users\richa\source\repos\ListONums\ListONums\obj\Debug\netcoreapp3.0\ListONums.dll
+C:\Users\richa\source\repos\ListONums\ListONums\obj\Debug\netcoreapp3.0\ListONums.pdb

@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\bin\Debug\netcoreapp3.0\ColorBall.exe
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\bin\Debug\netcoreapp3.0\ColorBall.deps.json
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\bin\Debug\netcoreapp3.0\ColorBall.runtimeconfig.json
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\bin\Debug\netcoreapp3.0\ColorBall.runtimeconfig.dev.json
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\bin\Debug\netcoreapp3.0\ColorBall.dll
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\bin\Debug\netcoreapp3.0\ColorBall.pdb
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\obj\Debug\netcoreapp3.0\ColorBall.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\obj\Debug\netcoreapp3.0\ColorBall.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\obj\Debug\netcoreapp3.0\ColorBall.AssemblyInfo.cs
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\obj\Debug\netcoreapp3.0\ColorBall.dll
+C:\Users\richa\source\repos\LearningCSharp\ColorBall\ColorBall\obj\Debug\netcoreapp3.0\ColorBall.pdb

@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\bin\Debug\netcoreapp3.0\LeibnizPi.exe
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\bin\Debug\netcoreapp3.0\LeibnizPi.deps.json
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\bin\Debug\netcoreapp3.0\LeibnizPi.runtimeconfig.json
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\bin\Debug\netcoreapp3.0\LeibnizPi.runtimeconfig.dev.json
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\bin\Debug\netcoreapp3.0\LeibnizPi.dll
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\bin\Debug\netcoreapp3.0\LeibnizPi.pdb
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\obj\Debug\netcoreapp3.0\LeibnizPi.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\obj\Debug\netcoreapp3.0\LeibnizPi.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\obj\Debug\netcoreapp3.0\LeibnizPi.AssemblyInfo.cs
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\obj\Debug\netcoreapp3.0\LeibnizPi.dll
+C:\Users\richa\source\repos\LearningCSharp\LeibnizPi\LeibnizPi\obj\Debug\netcoreapp3.0\LeibnizPi.pdb

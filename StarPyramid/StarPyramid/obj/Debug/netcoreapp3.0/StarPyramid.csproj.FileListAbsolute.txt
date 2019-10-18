@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\bin\Debug\netcoreapp3.0\StarPyramid.exe
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\bin\Debug\netcoreapp3.0\StarPyramid.deps.json
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\bin\Debug\netcoreapp3.0\StarPyramid.runtimeconfig.json
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\bin\Debug\netcoreapp3.0\StarPyramid.runtimeconfig.dev.json
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\bin\Debug\netcoreapp3.0\StarPyramid.dll
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\bin\Debug\netcoreapp3.0\StarPyramid.pdb
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\obj\Debug\netcoreapp3.0\StarPyramid.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\obj\Debug\netcoreapp3.0\StarPyramid.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\obj\Debug\netcoreapp3.0\StarPyramid.AssemblyInfo.cs
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\obj\Debug\netcoreapp3.0\StarPyramid.dll
+C:\Users\richa\source\repos\StarPyramid\StarPyramid\obj\Debug\netcoreapp3.0\StarPyramid.pdb

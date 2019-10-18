@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\bin\Debug\netcoreapp3.0\PosOrNeg.exe
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\bin\Debug\netcoreapp3.0\PosOrNeg.deps.json
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\bin\Debug\netcoreapp3.0\PosOrNeg.runtimeconfig.json
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\bin\Debug\netcoreapp3.0\PosOrNeg.runtimeconfig.dev.json
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\bin\Debug\netcoreapp3.0\PosOrNeg.dll
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\bin\Debug\netcoreapp3.0\PosOrNeg.pdb
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\obj\Debug\netcoreapp3.0\PosOrNeg.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\obj\Debug\netcoreapp3.0\PosOrNeg.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\obj\Debug\netcoreapp3.0\PosOrNeg.AssemblyInfo.cs
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\obj\Debug\netcoreapp3.0\PosOrNeg.dll
+C:\Users\richa\source\repos\PosOrNeg\PosOrNeg\obj\Debug\netcoreapp3.0\PosOrNeg.pdb

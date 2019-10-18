@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\bin\Debug\netcoreapp3.0\tetris.exe
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\bin\Debug\netcoreapp3.0\tetris.deps.json
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\bin\Debug\netcoreapp3.0\tetris.runtimeconfig.json
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\bin\Debug\netcoreapp3.0\tetris.runtimeconfig.dev.json
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\bin\Debug\netcoreapp3.0\tetris.dll
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\bin\Debug\netcoreapp3.0\tetris.pdb
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\obj\Debug\netcoreapp3.0\tetris.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\obj\Debug\netcoreapp3.0\tetris.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\obj\Debug\netcoreapp3.0\tetris.AssemblyInfo.cs
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\obj\Debug\netcoreapp3.0\tetris.dll
+C:\Users\richa\source\repos\LearningCSharp\tetris\tetris\obj\Debug\netcoreapp3.0\tetris.pdb

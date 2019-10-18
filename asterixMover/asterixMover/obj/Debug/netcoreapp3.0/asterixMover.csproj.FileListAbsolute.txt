@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\bin\Debug\netcoreapp3.0\asterixMover.exe
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\bin\Debug\netcoreapp3.0\asterixMover.deps.json
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\bin\Debug\netcoreapp3.0\asterixMover.runtimeconfig.json
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\bin\Debug\netcoreapp3.0\asterixMover.runtimeconfig.dev.json
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\bin\Debug\netcoreapp3.0\asterixMover.dll
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\bin\Debug\netcoreapp3.0\asterixMover.pdb
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\obj\Debug\netcoreapp3.0\asterixMover.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\obj\Debug\netcoreapp3.0\asterixMover.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\obj\Debug\netcoreapp3.0\asterixMover.AssemblyInfo.cs
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\obj\Debug\netcoreapp3.0\asterixMover.dll
+C:\Users\richa\source\repos\LearningCSharp\asterixMover\asterixMover\obj\Debug\netcoreapp3.0\asterixMover.pdb

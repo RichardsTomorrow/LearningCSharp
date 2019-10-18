@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\CopyArray\CopyArray\bin\Debug\netcoreapp3.0\CopyArray.exe
+C:\Users\richa\source\repos\CopyArray\CopyArray\bin\Debug\netcoreapp3.0\CopyArray.deps.json
+C:\Users\richa\source\repos\CopyArray\CopyArray\bin\Debug\netcoreapp3.0\CopyArray.runtimeconfig.json
+C:\Users\richa\source\repos\CopyArray\CopyArray\bin\Debug\netcoreapp3.0\CopyArray.runtimeconfig.dev.json
+C:\Users\richa\source\repos\CopyArray\CopyArray\bin\Debug\netcoreapp3.0\CopyArray.dll
+C:\Users\richa\source\repos\CopyArray\CopyArray\bin\Debug\netcoreapp3.0\CopyArray.pdb
+C:\Users\richa\source\repos\CopyArray\CopyArray\obj\Debug\netcoreapp3.0\CopyArray.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\CopyArray\CopyArray\obj\Debug\netcoreapp3.0\CopyArray.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\CopyArray\CopyArray\obj\Debug\netcoreapp3.0\CopyArray.AssemblyInfo.cs
+C:\Users\richa\source\repos\CopyArray\CopyArray\obj\Debug\netcoreapp3.0\CopyArray.dll
+C:\Users\richa\source\repos\CopyArray\CopyArray\obj\Debug\netcoreapp3.0\CopyArray.pdb

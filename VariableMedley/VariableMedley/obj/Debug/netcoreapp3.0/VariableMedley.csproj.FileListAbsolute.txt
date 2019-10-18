@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\bin\Debug\netcoreapp3.0\VariableMedley.exe
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\bin\Debug\netcoreapp3.0\VariableMedley.deps.json
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\bin\Debug\netcoreapp3.0\VariableMedley.runtimeconfig.json
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\bin\Debug\netcoreapp3.0\VariableMedley.runtimeconfig.dev.json
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\bin\Debug\netcoreapp3.0\VariableMedley.dll
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\bin\Debug\netcoreapp3.0\VariableMedley.pdb
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\obj\Debug\netcoreapp3.0\VariableMedley.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\obj\Debug\netcoreapp3.0\VariableMedley.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\obj\Debug\netcoreapp3.0\VariableMedley.AssemblyInfo.cs
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\obj\Debug\netcoreapp3.0\VariableMedley.dll
+C:\Users\richa\source\repos\VariableMedley\VariableMedley\obj\Debug\netcoreapp3.0\VariableMedley.pdb

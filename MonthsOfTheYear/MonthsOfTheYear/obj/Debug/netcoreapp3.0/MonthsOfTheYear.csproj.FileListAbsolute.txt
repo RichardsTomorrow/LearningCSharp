@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\netcoreapp3.0\MonthsOfTheYear.exe
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\netcoreapp3.0\MonthsOfTheYear.deps.json
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\netcoreapp3.0\MonthsOfTheYear.runtimeconfig.json
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\netcoreapp3.0\MonthsOfTheYear.runtimeconfig.dev.json
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\netcoreapp3.0\MonthsOfTheYear.dll
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\bin\Debug\netcoreapp3.0\MonthsOfTheYear.pdb
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\netcoreapp3.0\MonthsOfTheYear.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\netcoreapp3.0\MonthsOfTheYear.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\netcoreapp3.0\MonthsOfTheYear.AssemblyInfo.cs
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\netcoreapp3.0\MonthsOfTheYear.dll
+C:\Users\richa\source\repos\MonthsOfTheYear\MonthsOfTheYear\obj\Debug\netcoreapp3.0\MonthsOfTheYear.pdb

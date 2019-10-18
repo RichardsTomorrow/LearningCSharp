@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.0\EvenOrOdd.exe
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.0\EvenOrOdd.deps.json
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.0\EvenOrOdd.runtimeconfig.json
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.0\EvenOrOdd.runtimeconfig.dev.json
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.0\EvenOrOdd.dll
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\bin\Debug\netcoreapp3.0\EvenOrOdd.pdb
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.0\EvenOrOdd.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.0\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.0\EvenOrOdd.AssemblyInfo.cs
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.0\EvenOrOdd.dll
+C:\Users\richa\source\repos\EvenOrOdd\EvenOrOdd\obj\Debug\netcoreapp3.0\EvenOrOdd.pdb

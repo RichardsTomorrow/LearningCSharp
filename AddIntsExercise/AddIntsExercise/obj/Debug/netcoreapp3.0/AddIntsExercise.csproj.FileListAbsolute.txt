@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\bin\Debug\netcoreapp3.0\AddIntsExercise.exe
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\bin\Debug\netcoreapp3.0\AddIntsExercise.deps.json
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\bin\Debug\netcoreapp3.0\AddIntsExercise.runtimeconfig.json
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\bin\Debug\netcoreapp3.0\AddIntsExercise.runtimeconfig.dev.json
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\bin\Debug\netcoreapp3.0\AddIntsExercise.dll
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\bin\Debug\netcoreapp3.0\AddIntsExercise.pdb
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\obj\Debug\netcoreapp3.0\AddIntsExercise.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\obj\Debug\netcoreapp3.0\AddIntsExercise.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\obj\Debug\netcoreapp3.0\AddIntsExercise.AssemblyInfo.cs
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\obj\Debug\netcoreapp3.0\AddIntsExercise.dll
+C:\Users\richa\source\repos\LearningCSharp\AddIntsExercise\AddIntsExercise\obj\Debug\netcoreapp3.0\AddIntsExercise.pdb

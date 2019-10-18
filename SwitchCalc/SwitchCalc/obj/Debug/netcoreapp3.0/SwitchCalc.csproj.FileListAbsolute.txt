@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\bin\Debug\netcoreapp3.0\SwitchCalc.exe
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\bin\Debug\netcoreapp3.0\SwitchCalc.deps.json
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\bin\Debug\netcoreapp3.0\SwitchCalc.runtimeconfig.json
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\bin\Debug\netcoreapp3.0\SwitchCalc.runtimeconfig.dev.json
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\bin\Debug\netcoreapp3.0\SwitchCalc.dll
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\bin\Debug\netcoreapp3.0\SwitchCalc.pdb
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\obj\Debug\netcoreapp3.0\SwitchCalc.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\obj\Debug\netcoreapp3.0\SwitchCalc.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\obj\Debug\netcoreapp3.0\SwitchCalc.AssemblyInfo.cs
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\obj\Debug\netcoreapp3.0\SwitchCalc.dll
+C:\Users\richa\source\repos\SwitchCalc\SwitchCalc\obj\Debug\netcoreapp3.0\SwitchCalc.pdb

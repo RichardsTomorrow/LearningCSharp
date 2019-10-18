@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.0\ScratchPad.exe
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.0\ScratchPad.deps.json
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.0\ScratchPad.runtimeconfig.json
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.0\ScratchPad.runtimeconfig.dev.json
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.0\ScratchPad.dll
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\bin\Debug\netcoreapp3.0\ScratchPad.pdb
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.0\ScratchPad.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.0\ScratchPad.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.0\ScratchPad.AssemblyInfo.cs
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.0\ScratchPad.dll
+C:\Users\richa\source\repos\LearningCSharp\ScratchPad\ScratchPad\obj\Debug\netcoreapp3.0\ScratchPad.pdb

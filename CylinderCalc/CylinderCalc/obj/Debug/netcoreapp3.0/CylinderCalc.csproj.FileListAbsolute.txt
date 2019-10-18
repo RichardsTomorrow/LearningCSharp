@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\obj\Debug\netcoreapp3.0\CylinderCalc.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\obj\Debug\netcoreapp3.0\CylinderCalc.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\obj\Debug\netcoreapp3.0\CylinderCalc.AssemblyInfo.cs
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\bin\Debug\netcoreapp3.0\CylinderCalc.exe
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\bin\Debug\netcoreapp3.0\CylinderCalc.deps.json
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\bin\Debug\netcoreapp3.0\CylinderCalc.runtimeconfig.json
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\bin\Debug\netcoreapp3.0\CylinderCalc.runtimeconfig.dev.json
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\bin\Debug\netcoreapp3.0\CylinderCalc.dll
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\bin\Debug\netcoreapp3.0\CylinderCalc.pdb
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\obj\Debug\netcoreapp3.0\CylinderCalc.dll
+C:\Users\richa\source\repos\CylinderCalc\CylinderCalc\obj\Debug\netcoreapp3.0\CylinderCalc.pdb

@@ -1,0 +1,10 @@
+C:\Users\richa\source\repos\MinAvgArray\MinAvgArray\obj\Debug\netcoreapp3.0\MinAvgArray.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\MinAvgArray\MinAvgArray\obj\Debug\netcoreapp3.0\MinAvgArray.AssemblyInfo.cs
+C:\Users\richa\source\repos\MinAvgArray\MinAvgArray\bin\Debug\netcoreapp3.0\MinAvgArray.exe
+C:\Users\richa\source\repos\MinAvgArray\MinAvgArray\bin\Debug\netcoreapp3.0\MinAvgArray.deps.json
+C:\Users\richa\source\repos\MinAvgArray\MinAvgArray\bin\Debug\netcoreapp3.0\MinAvgArray.runtimeconfig.json
+C:\Users\richa\source\repos\MinAvgArray\MinAvgArray\bin\Debug\netcoreapp3.0\MinAvgArray.runtimeconfig.dev.json
+C:\Users\richa\source\repos\MinAvgArray\MinAvgArray\bin\Debug\netcoreapp3.0\MinAvgArray.dll
+C:\Users\richa\source\repos\MinAvgArray\MinAvgArray\bin\Debug\netcoreapp3.0\MinAvgArray.pdb
+C:\Users\richa\source\repos\MinAvgArray\MinAvgArray\obj\Debug\netcoreapp3.0\MinAvgArray.dll
+C:\Users\richa\source\repos\MinAvgArray\MinAvgArray\obj\Debug\netcoreapp3.0\MinAvgArray.pdb

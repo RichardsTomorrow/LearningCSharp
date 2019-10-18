@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\bin\Debug\netcoreapp3.0\DieRolling.exe
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\bin\Debug\netcoreapp3.0\DieRolling.deps.json
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\bin\Debug\netcoreapp3.0\DieRolling.runtimeconfig.json
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\bin\Debug\netcoreapp3.0\DieRolling.runtimeconfig.dev.json
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\bin\Debug\netcoreapp3.0\DieRolling.dll
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\bin\Debug\netcoreapp3.0\DieRolling.pdb
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\obj\Debug\netcoreapp3.0\DieRolling.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\obj\Debug\netcoreapp3.0\DieRolling.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\obj\Debug\netcoreapp3.0\DieRolling.AssemblyInfo.cs
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\obj\Debug\netcoreapp3.0\DieRolling.dll
+C:\Users\richa\source\repos\LearningCSharp\DieRolling\DieRolling\obj\Debug\netcoreapp3.0\DieRolling.pdb
