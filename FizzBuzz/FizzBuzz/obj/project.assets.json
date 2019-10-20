@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\richa\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\richa\\source\\repos\\LearningCSharp\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\richa\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "projectPath": "C:\\Users\\richa\\source\\repos\\LearningCSharp\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\richa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\richa\\source\\repos\\FizzBuzz\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\richa\\source\\repos\\LearningCSharp\\FizzBuzz\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
