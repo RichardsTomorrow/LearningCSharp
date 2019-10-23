@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\bin\Debug\netcoreapp3.0\Indexers.exe
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\bin\Debug\netcoreapp3.0\Indexers.deps.json
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\bin\Debug\netcoreapp3.0\Indexers.runtimeconfig.json
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\bin\Debug\netcoreapp3.0\Indexers.runtimeconfig.dev.json
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\bin\Debug\netcoreapp3.0\Indexers.dll
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\bin\Debug\netcoreapp3.0\Indexers.pdb
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\obj\Debug\netcoreapp3.0\Indexers.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\obj\Debug\netcoreapp3.0\Indexers.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\obj\Debug\netcoreapp3.0\Indexers.AssemblyInfo.cs
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\obj\Debug\netcoreapp3.0\Indexers.dll
+C:\Users\richa\source\repos\LearningCSharp\Indexers\Indexers\obj\Debug\netcoreapp3.0\Indexers.pdb
