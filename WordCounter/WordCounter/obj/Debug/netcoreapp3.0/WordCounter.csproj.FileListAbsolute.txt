@@ -1,0 +1,11 @@
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\bin\Debug\netcoreapp3.0\WordCounter.exe
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\bin\Debug\netcoreapp3.0\WordCounter.deps.json
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\bin\Debug\netcoreapp3.0\WordCounter.runtimeconfig.json
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\bin\Debug\netcoreapp3.0\WordCounter.runtimeconfig.dev.json
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\bin\Debug\netcoreapp3.0\WordCounter.dll
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\bin\Debug\netcoreapp3.0\WordCounter.pdb
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\obj\Debug\netcoreapp3.0\WordCounter.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\obj\Debug\netcoreapp3.0\WordCounter.AssemblyInfoInputs.cache
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\obj\Debug\netcoreapp3.0\WordCounter.AssemblyInfo.cs
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\obj\Debug\netcoreapp3.0\WordCounter.dll
+C:\Users\richa\source\repos\LearningCSharp\WordCounter\WordCounter\obj\Debug\netcoreapp3.0\WordCounter.pdb
